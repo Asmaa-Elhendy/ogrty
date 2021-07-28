@@ -1,0 +1,125 @@
+PODS:
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - geocoding (1.0.5):
+    - Flutter
+  - geolocator (6.2.0):
+    - Flutter
+  - google_maps_flutter (0.0.1):
+    - Flutter
+    - GoogleMaps
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+  - image_picker (0.0.1):
+    - Flutter
+  - images_picker (0.0.1):
+    - Flutter
+    - ZLPhotoBrowser (= 4.1.5)
+  - MTBBarcodeScanner (5.0.11)
+  - multi_select_item (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - qr_code_scanner (0.2.0):
+    - Flutter
+    - MTBBarcodeScanner
+  - Reachability (3.2)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+  - url_launcher (0.0.1):
+    - Flutter
+  - ZLPhotoBrowser (4.1.5):
+    - ZLPhotoBrowser/Core (= 4.1.5)
+  - ZLPhotoBrowser/Core (4.1.5)
+
+DEPENDENCIES:
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - Flutter (from `Flutter`)
+  - geocoding (from `.symlinks/plugins/geocoding/ios`)
+  - geolocator (from `.symlinks/plugins/geolocator/ios`)
+  - google_maps_flutter (from `.symlinks/plugins/google_maps_flutter/ios`)
+  - image_picker (from `.symlinks/plugins/image_picker/ios`)
+  - images_picker (from `.symlinks/plugins/images_picker/ios`)
+  - multi_select_item (from `.symlinks/plugins/multi_select_item/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - qr_code_scanner (from `.symlinks/plugins/qr_code_scanner/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+  - url_launcher (from `.symlinks/plugins/url_launcher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+    - GoogleMaps
+    - MTBBarcodeScanner
+    - Reachability
+    - ZLPhotoBrowser
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  Flutter:
+    :path: Flutter
+  geocoding:
+    :path: ".symlinks/plugins/geocoding/ios"
+  geolocator:
+    :path: ".symlinks/plugins/geolocator/ios"
+  google_maps_flutter:
+    :path: ".symlinks/plugins/google_maps_flutter/ios"
+  image_picker:
+    :path: ".symlinks/plugins/image_picker/ios"
+  images_picker:
+    :path: ".symlinks/plugins/images_picker/ios"
+  multi_select_item:
+    :path: ".symlinks/plugins/multi_select_item/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  qr_code_scanner:
+    :path: ".symlinks/plugins/qr_code_scanner/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+  url_launcher:
+    :path: ".symlinks/plugins/url_launcher/ios"
+
+SPEC CHECKSUMS:
+  connectivity: c4130b2985d4ef6fd26f9702e886bd5260681467
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  geocoding: 32cfcdb16d38d907caaba65e2e42ad10d38bee58
+  geolocator: f5e3de65e241caba7ce3e8a618803387bda73384
+  google_maps_flutter: df4e7de95264aa0a2f11aac0fc7e313acb8ffc7e
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  image_picker: 50e7c7ff960e5f58faa4d1f4af84a771c671bc4a
+  images_picker: 634f7663456c00364e7d1a16116c2cc2562ff50f
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  multi_select_item: b70b78aac4d208141e5d7de8640655570fb40e90
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  qr_code_scanner: bb67d64904c3b9658ada8c402e8b4d406d5d796e
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  ZLPhotoBrowser: 809878607ea92e9411c580797ce1be23896b8d7f
+
+PODFILE CHECKSUM: 3dffd8c48b531d21ec0ec153c22dc8e3a6223bc9
+
+COCOAPODS: 1.10.1
